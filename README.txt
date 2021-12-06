@@ -1,4 +1,4 @@
-Project Title: Web Scraping with indeed and Craigslist
+Project Title: Web Scraping with Indeed and Craigslist
 Group 3
 Group member 1
 Name: Xuanwei Zhu
